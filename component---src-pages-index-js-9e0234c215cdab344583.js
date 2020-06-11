@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{RXBc:function(e,t,n){"use strict";n.r(t);var l=n("q1tI"),a=n.n(l),o=(n("Wbzz"),n("Bl7J"),n("tBDR"),n("vrFN"));n("vx99");t.default=function(){return a.a.createElement("div",null,a.a.createElement(o.a,{title:"Home"}),a.a.createElement("h1",null," Hi people ")," ",a.a.createElement("p",null," Welcome to your new Gatsby site. ")," ",a.a.createElement("p",null," Now go build something great. ")," ")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-9e0234c215cdab344583.js.map
